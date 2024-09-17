@@ -1,0 +1,5 @@
+make:
+	g++ -w downgrade.c++ -lssl -lcrypto -o dg
+	./dg
+
+

@@ -1,0 +1,5 @@
+make:
+	cd fake_certs/fake_certs && g++ -w downgrade_task4.c++ -lssl -lcrypto -o dg
+	cd fake_certs/fake_certs && ./dg
+
+
