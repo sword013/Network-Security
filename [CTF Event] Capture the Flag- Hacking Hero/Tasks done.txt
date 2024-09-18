@@ -1,0 +1,44 @@
+Tasks done : 
+Task 1:
+ ➔ Studied the provided tools and resources for approaches to CTF.
+ ➔ Used Nmap to scan the ports on the target server for obtain the list of open 
+ports.
+ ➔ Used the list of open ports to access the flag 1 through page source.
+ ➔ identified and submitted flag 1 in CTF.
+Worked on developing the python script for automating this attack.
+
+ Task 2:
+ ➔ Studied the working and usage of goBuster tool for finding the hidden 
+directories
+ ➔identifying the hidden directories in the 
+server.
+ ➔ Identified and submitted flag 2 in CTF.
+ ➔ Used the port and directory information to access and find the flag 2.
+ ➔ Worked on developing the python script for automating this attack.
+
+ Task 3:
+ ➔ Used the key obtained from flag 2 and identified the command to connect to the
+ server through ssh.
+ ➔ Generated the key file using the RSA private key obtained in flag 2.
+ ➔ Looked into the contents of the server once connected using ssh.
+ ➔ Identified and viewed the flag 3 and submitted it in CTF.
+ ➔ Worked on developing the python script for automating this attack.
+
+ Task 4:
+ ➔ Studied  on the ways to access the flag 4 (under root user) with 
+Manisha.
+ ➔ Studied on the ways to access the flag 4 (under root user) with 
+Tejas.
+ ➔ Looked for ways including Elevated permission method and Metasploit.
+ Report writing and creating ReadMe :
+ ➔ Prepared the report for the activity and the created python script including the 
+readme with the depedencies
+ ➔ Used Metasploit on the open ports for collecting HeartBleed data. Used TShark 
+to capture the pcap and identify the Base64 password.
+ ➔ Decoded the Base64 password and accessed the flag 4 using sudo.
+ ➔ Identified and submitted flag 4 in CTF.
+ ➔ Worked on developing the python script for automating this attack.
+ Report writing and creating ReadMe :
+ ➔ Helped in report writing by providing relevant data for attacks and python 
+script.
+
